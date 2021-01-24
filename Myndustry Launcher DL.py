@@ -162,7 +162,7 @@ def isave():
     msg = QMessageBox()
     msg.setWindowTitle("Информация сохронение!")
     msg.setText('Для изменение рабочей области файлов Myndustry - В папке с лаунчером в файле save.txt измените путь!')
-    msg.setIcon(QMessageBox.Info)
+    msg.setIcon(QMessageBox.Information)
     msg.setStandardButtons(QMessageBox.Ok)
     x = msg.exec_()
 
