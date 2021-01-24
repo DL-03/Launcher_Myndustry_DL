@@ -1,0 +1,8 @@
+PyQt5
+sys
+time
+BeautifulSoup
+requests
+request
+os
+PySimpleGUI
